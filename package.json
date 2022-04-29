@@ -16,7 +16,7 @@
         "url": "https://github.com"
     },
     "dependencies": {
-        "async": "^2.6.3",
+        "async": "^2.6.4",
         "blob": "0.0.5",
         "botbuilder": "^4.10.1",
         "botbuilder-azure": "^4.10.1",
