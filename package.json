@@ -19,7 +19,7 @@
         "async": "^2.6.3",
         "blob": "0.0.5",
         "botbuilder": "^4.10.1",
-        "botbuilder-azure": "^4.10.1",
+        "botbuilder-azure": "^4.18.0",
         "botbuilder-dialogs": "^4.10.1",
         "botframework-config": "^4.10.1",
         "dotenv": "^6.2.0",
